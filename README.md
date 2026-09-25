@@ -1,0 +1,1 @@
+This is a transferable framework for estimating annual groundwater recharge from large, heterogeneous networks of water-level records. It combines event identification, alternative recession extrapolations, specific-yield uncertainty propagation, and spatial and temporal diagnostic checks to make the assumptions and limitations of water-table-fluctuation estimates explicit.
